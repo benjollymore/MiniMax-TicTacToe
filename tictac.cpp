@@ -2,7 +2,6 @@
 tictac.cpp
 
 Ben Jollymore
-A00400128
 
 2019-02-15
 A simple program to allow a user to play tic tac toe between minimax computer opponents.
